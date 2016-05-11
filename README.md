@@ -14,7 +14,7 @@
 
 Author: Jordan West (jlw1g14)
 
-This work is licensed under the Creative Commons Attribution-ShareAlike 3.0.
+This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 license.
 
 View this license at https://creativecommons.org/licenses/by-sa/3.0/
 
