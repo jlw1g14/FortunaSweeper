@@ -16,7 +16,7 @@ Licence: This work is licensed under the Creative Commons Attribution-ShareAlike
 View this license at https://creativecommons.org/licenses/by-sa/3.0/
 
 This code works off of libraries developed by other authors.
-* Steve Gunn's code to drive the display under the lib/lcd folder and lib/debug folder (adapted by Klaus-Peter Zauner).
+* Steve Gunn's code to drive the display under the lib/lcd folder and lib/serial folder (adapted by Klaus-Peter Zauner).
 * Peter Dannegger's code to read switch input under the lib/routa folder (adapted by Klaus-Peter Zauner).
 * Frank Vahid, Bailey Miller, and Tony Givargis's code for the lib/rios under the rios folder (adapted by Klaus-Peter Zauner).
 * Klaus-Peter Zauner's svrgb565 color reference library under lib/color.h.
