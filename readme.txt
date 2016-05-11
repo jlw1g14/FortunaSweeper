@@ -19,6 +19,7 @@ This code works off of libraries developed by other authors.
 * Steve Gunn's code to drive the display under the lib/lcd folder (adapted by Klaus-Peter Zauner).
 * Peter Dannegger's code to read switch input under the lib/routa folder (adapted by Klaus-Peter Zauner).
 * Frank Vahid, Bailey Miller, and Tony Givargis's code for the lib/rios under the rios folder (adapted by Klaus-Peter Zauner).
+* Klaus-Peter-Zauner's svrgb565 color reference library under lib/color.h.
 
 Developed for the following hardware:
 * avr90usb1286 MCU
