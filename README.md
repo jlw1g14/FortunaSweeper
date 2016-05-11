@@ -27,3 +27,7 @@ This code works off of libraries developed by other authors.
 Developed for the following hardware:
 * avr90usb1286 MCU
 * 240x320 LCD with ILI9341 driver
+
+##SCREENSHOTS
+<img src="https://raw.githubusercontent.com/jlw1g14/FortunaSweeper/master/screenshots/1.png" width="300" height="300" />
+<img src="https://raw.githubusercontent.com/jlw1g14/FortunaSweeper/master/screenshots/2.png" width="300" height="300" />
